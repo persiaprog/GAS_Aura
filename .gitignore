@@ -3,14 +3,15 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Content/Assets/*
 
-. vscode
+.vscode
 .VS
-*. Vc.db
-*. opensdf
-*. opendb
-*. sdf
-*. sln
-*. suo
-*. xcodeproj
-*. xcworkspace
+*.Vc.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
